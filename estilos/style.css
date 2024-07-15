@@ -20,7 +20,7 @@ header > img{
     border-radius: 50%;
     height: 80px;
     margin: 5px;
-    box-shadow: rgba(100, 100, 111, 0.418) 0px 7px 29px 0px;
+    box-shadow: rgba(100, 100, 111, 0.144) 0px 7px 29px 0px;
 }
 header > h1{
     color: aliceblue;
